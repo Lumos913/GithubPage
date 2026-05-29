@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
+  text("My First Github page", 50, 50)
 }
